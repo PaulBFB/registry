@@ -410,6 +410,42 @@
       "updated": "2026-02-25"
     },
     {
+      "name": "aod",
+      "display_name": "Army of Darkness",
+      "version": "1.0.0",
+      "description": "Excerpts from the movie Army of Darkness",
+      "author": {
+        "name": "Chris Songer",
+        "github": "regnos24"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "input.required",
+        "session.start",
+        "task.complete",
+        "task.error",
+        "task.acknowledge", 
+        "resource.limit"
+      ],
+      "language": "en",
+      "license": "community",
+      "sound_count": 18,
+      "total_size_bytes": 634880,
+      "source_repo": "regnos24/openpeon-aod-pack",
+      "source_ref": "v1.0.0",
+      "source_path": ".",
+      "manifest_sha256": "3fd106899b565c698f9e36a565d908517ef0fec0a85fbd5663ce274118247379",
+      "tags": [
+        "Army of Darkness", "Movie", "Ash", "Evil Dead", "Deadite", "Necronomicon", "Bruce Campbell"
+      ],
+      "preview_sounds": [
+        "boomstick_short.mp3",
+        "klaatu_verata_cough.mp3"
+      ],
+      "added": "2026-03-04",
+      "updated": "2026-03-04"
+    },
+    {
       "name": "aoe2",
       "display_name": "Age of Empires II Taunts",
       "version": "1.0.0",
@@ -6957,5 +6993,5 @@
       "updated": "2026-02-25"
     }
   ],
-  "total_packs": 172
+  "total_packs": 173
 }
