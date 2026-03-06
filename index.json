@@ -910,7 +910,7 @@
         "name": "PaulBFB",
         "github": "PaulBFB"
       },
-      "trust_tier": "verified",
+      "trust_tier": "community",
       "categories": [
         "session.start",
         "task.acknowledge",
